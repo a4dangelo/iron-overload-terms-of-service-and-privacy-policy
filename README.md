@@ -75,4 +75,5 @@ This Agreement is governed by the laws of **Canada**, without regard to conflict
 If you have questions about this Agreement, you may contact:
 
 **ADA Apps**
+
 **a4dangelo@gmail.com**

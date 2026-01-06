@@ -53,6 +53,7 @@ We do not guarantee:
 * Accuracy or completeness of information
 * That the App will be error‑free or uninterrupted
 * That the App will meet your expectations
+
 Your use of the App is at your sole risk.
 
 #### 8. Limitation of Liability

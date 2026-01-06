@@ -1,5 +1,5 @@
-# iron-overload-terms-of-service-and-privacy-policy
-Terms of service and privacy policy for Iron Overload
+## Iron Overload
+# Terms of Service and Privacy Policy
 
 Terms of Service & Privacy Policy
 Last Updated: January 5th, 2026

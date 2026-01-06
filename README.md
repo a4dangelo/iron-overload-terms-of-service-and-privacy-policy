@@ -60,6 +60,7 @@ To the fullest extent permitted by law, **ADA Apps** shall not be liable for any
 * Use or inability to use the App
 * Reliance on any information provided by the App
 * Any decisions made based on App content
+
 This includes indirect, incidental, consequential, or punitive damages.
 
 #### 9. Updates and Modifications

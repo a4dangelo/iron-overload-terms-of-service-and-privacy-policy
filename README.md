@@ -32,6 +32,7 @@ Specifically:
 * No data is transmitted off your device
 
 Because the App collects **no data**, we cannot access, modify, or delete any user information.
+
 If future versions introduce optional features requiring data, you will be notified and asked for consent.
 
 #### 5. User Responsibilities

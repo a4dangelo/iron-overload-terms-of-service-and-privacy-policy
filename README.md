@@ -4,19 +4,19 @@
 
 Last Updated: January 5th, 2026
 
-#### Welcome to Iron Overload (“the App”). By downloading, accessing, or using the App, you agree to the following Terms of Service and Privacy Policy (“Agreement”). Please read this Agreement carefully. If you do not agree, you may not use the App.
+Welcome to **Iron Overload** (“the App”). By downloading, accessing, or using the App, you agree to the following **Terms of Service and Privacy Policy** (“Agreement”). Please read this Agreement carefully. If you do not agree, you may not use the App.
 
 #### 1. Purpose of the App
-The App is intended solely for informational and reference purposes. It is not a medical device and does not provide medical advice, diagnosis, treatment, or recommendations.
+The App is intended **solely for informational and reference purposes**. It is **not** a medical device and does **not** provide medical advice, diagnosis, treatment, or recommendations.
 All medical questions, decisions, or concerns must be directed to a licensed physician or qualified healthcare professional.
 
 #### 2. No Medical Advice
 You acknowledge and agree that:
-The App does not replace professional medical judgment.
-Information may be incomplete, outdated, or inaccurate.
-You must not rely on the App for medical decisions.
-You should always consult your physician regarding any medical condition or treatment.
-If you believe you may be experiencing a medical emergency, contact emergency services immediately.
+* The App does **not** replace professional medical judgment.
+* Information may be incomplete, outdated, or inaccurate.
+* You must not rely on the App for medical decisions.
+* You should always consult your physician regarding any medical condition or treatment.
+* If you believe you may be experiencing a medical emergency, contact emergency services immediately.
 
 #### 3. No Data Collection (Privacy Policy)
 Your privacy matters. This App is designed to operate without collecting, storing, tracking, sharing, or transmitting any personal or usage data.
